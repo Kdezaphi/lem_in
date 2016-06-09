@@ -1,0 +1,29 @@
+45
+##start
+a 0 0
+b 1 1
+d 3 3
+e 4 4
+f 5 5
+g 6 6
+h 7 7
+i 8 8
+j 9 9
+k 10 10
+l 11 11
+##end
+c 2 2
+a-b
+a-c
+b-c
+a-d
+d-e
+e-f
+f-g
+g-h
+h-c
+a-i
+i-j
+j-k
+k-l
+l-c
